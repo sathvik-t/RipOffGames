@@ -1,0 +1,17 @@
+/* styles.css */
+.carousel-inner {
+  height: auto; /* Adjust the height as needed */
+}
+
+.carousel-item {
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.play-button {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
